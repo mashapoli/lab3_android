@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">lab3_2</string>
+    <string name="toSecond">to Second</string>
+    <string name="toFirst">to First</string>
+    <string name="toThird">to Third</string>
+    <string name="noAnimation">To Second Without Animation</string>
+    <string name="about">About</string>
+    <string name="activity_1">Activity 1</string>
+    <string name="activity_2">Activity 2</string>
+    <string name="activity_3">Activity 3</string>
+    <string name="choose_activity">Choose Activity</string>
+</resources>
